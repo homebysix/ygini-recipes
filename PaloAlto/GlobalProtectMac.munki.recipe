@@ -16,8 +16,6 @@
 		<string>com.github.ygini.munki.GlobalProtect</string>
 		<key>HOSTNAME</key>
         <string>vpn.example.com</string>
-        <key>DOWNLOAD_URL</key>
-        <string>https://%HOSTNAME%/global-protect/getmsi.esp?platform=%PLATFORM%</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
